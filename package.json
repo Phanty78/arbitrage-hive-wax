@@ -1,0 +1,5 @@
+{
+    "name" : "arbitrage-hive-wax",
+    "private" : true,
+    "workspaces" : ["backend","frontend"]
+}
