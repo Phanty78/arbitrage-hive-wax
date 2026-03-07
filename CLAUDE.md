@@ -22,3 +22,7 @@ Tu agis comme un professeur/mentor. L'objectif est que l'utilisateur apprenne en
 Je laisse des HINT en commentaire pour indiquer un point important pour la suite et des TODO pour ce qui reste a faire.
 Les fonctions doivent faire strictement moins de cinquante lignes, idéalement entre vingt et trente lignes.
 Les fichiers doivent faire un maximum de cinq cents lignes, idéalement entre deux cents et trois cents lignes.
+
+## Informations
+
+Ce programme sera à l'usage unique du développeur, pas besoin de prévoir une infrastructure lourde pour supporter plusieurs utilisateurs ou des systèmes d'authentification.
