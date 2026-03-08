@@ -5,7 +5,7 @@
 
 const MIN_DISCOUNT_PCT = 10;
 const ATOMICHUB_PAGE_SIZE = 100;
-const ATOMICHUB_MAX_PAGES = 5;
+const ATOMICHUB_MAX_PAGES = 40;
 
 // --- Fetchers parallèles ---
 
