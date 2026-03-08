@@ -1,0 +1,1 @@
+export interface CoinGeckoWaxResponse { wax : { usd: number }}
